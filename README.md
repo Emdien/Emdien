@@ -11,4 +11,6 @@ __________________
 
 - :mag: I'm mostly interested on working at "backend" related stuff, but I also enjoy some frontend. Particularly got some experience with web development and API REST
 
-- :test_tube: Currently learning React for a frontend library for web development. Also interested in learning Artificial Intelligence and Machine Learning, but severely lacking experience.
+- :test_tube: Currently learning React as a frontend library for web development. Also interested in learning Artificial Intelligence and Machine Learning, but severely lacking experience.
+__________________
+At the moment I'm working on the final project for my degree, which in my case is making a CI workflow using GitHub Actions to automatize the calculation of metrics of ontologies in repositories using the framework OQuaRE. 
