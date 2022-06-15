@@ -15,4 +15,4 @@ __________________
 
 - :pencil2: A lot of my repos were done during my CS degree or are mostly toys, so they will most definetly have plenty of issues especially if they are old repos.
 __________________
-Finished my final proyect, which is publicly available. It consists on a CI module for ontology quality evaluation, using OQuaRE framework :). 
+Finished my final proyect, which is publicly available. It consists on a CI module for ontology quality evaluation which uses OQuaRE framework to obtain them. Most likely gonna focus on progressing the development of the devblog + maybe some other fancy stuff that I might feel like doing.
