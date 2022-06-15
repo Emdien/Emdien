@@ -2,7 +2,7 @@
 
 I'm Gonzalo! Known more as Emdien or MdN. 
 
-:mortar_board: I'm currently a Computer Science student at University of Murcia, and got the plans of finishing the degree this year. I've been incredibly passionate about technology ever since I was a kid, and particularly started showing a lot of interest for programming when I was around 16 years old. Currently I've been learning how to code stuff for about 6 to 7 years.
+:mortar_board: I'm a graduate in Software Engineering at University of Murcia. I've been incredibly passionate about technology ever since I was a kid, and particularly started showing a lot of interest for programming when I was around 16 years old. Currently I've been learning how to code stuff for about 6 to 7 years.
 
 __________________
 - :computer: My strongest languages or the ones I'm more confident on right now are Java and JavaScript, although I've got my fair share of experience with Python, C and C++
@@ -11,8 +11,8 @@ __________________
 
 - :mag: I'm mostly interested on working at "backend" related stuff, but I also enjoy some frontend. Particularly got some experience with web development and REST APIs
 
-- :test_tube: Currently learning React as a frontend library for web development and a little bit of Flask. 
+- :test_tube: Learning React for frontend web development, while learning a bit of Flask to manage backend
 
-- :pencil2: It's important to note that most if not all of my current public repositories are simply toys that were made for different courses of the CS degree. Most of them are in a state where I can show them withouth being ashamed, but they will most likely have some glaring issues as they were made as I was learning. Most likely doesn't represent my current level or knowledge!
+- :pencil2: A lot of my repos were done during my CS degree or are mostly toys, so they will most definetly have plenty of issues especially if they are old repos.
 __________________
-At the moment I'm working on the final project for my degree, which in my case is making a CI module using GitHub Actions to automatize the calculation and evaluation of metrics of ontologies in repositories using the OQuaRE framework. Also working on a chat application for a course I signed up this year, aswell as slowly making my own devblog with purely my own skills (frozen atm). 
+Finished my final proyect, which is publicly available. It consists on a CI module for ontology quality evaluation, using OQuaRE framework :). 
